@@ -8,13 +8,12 @@ provideIntl(
     locale: 'en',
     defaultLocale: 'en',
     messages: {
-      foo: 'Composed',
+      'Patrick said "I love this game"': "🤷‍♂️",
     },
   })
 )
 </script>
 
 <template>
-  🎁
   <HelloWorld />
 </template>
